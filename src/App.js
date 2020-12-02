@@ -13,7 +13,9 @@ function App() {
     <div className="App">
       <Header/>
       <Carousel/>
-      <br/><br/><br/>
+      <br/><br/>
+
+      <h3>Post & Articles</h3>
       <Image/>
       <br/><br/>
       <button type="button" class="btn btn-primary">Add Post</button>

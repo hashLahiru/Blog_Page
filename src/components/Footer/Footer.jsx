@@ -7,7 +7,36 @@ const Footer=()=>{
 
     return(
         <div className={styles.footer}>
-            <h7 className={styles.contact}>ContactUs</h7>
+            
+        <div class="container">
+        <br/><br/>
+        <div class="row">
+        <div class="col-sm">
+            One of three columns
+            One of three columns
+            One of three columns
+            One of three columns
+            One of three columns
+        </div>
+        <div class="col-sm">
+            One of three columns
+            One of three columns
+            One of three columns
+            One of three columns
+            One of three columns
+        </div>
+        <div class="col-sm">
+            One of three columns
+            One of three columns
+            One of three columns
+            One of three columns
+            One of three columns
+            <br/>
+        <h7 className={styles.contact}>ContactUs www.abc.lk </h7>
+    
+        </div>
+        </div>
+        </div>
         </div>
 
     )

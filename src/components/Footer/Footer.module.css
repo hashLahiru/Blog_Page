@@ -1,9 +1,9 @@
 .footer {
-    position: fixed;
+    position: relative;
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 30px;
+    height: 150px;
     background-color:gainsboro;
     color: black;
     text-align: center;
@@ -11,7 +11,9 @@
 
   .contact{
     position: absolute;
-    right: 10px;
-    color: gray;
+    right: 35%;
+    color:gray;
 
   }
+
+ 
