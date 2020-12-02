@@ -6,7 +6,6 @@ import Cards from './components/Cards/Cards';
 import Image from './components/Image/Image';
 import Carousel from './components/Carousel/Carousel';
 import Footer from './components/Footer/Footer';
-import LogIn from './LogIn.js';
 
 function App() {
   return (
