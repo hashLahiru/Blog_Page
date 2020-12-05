@@ -7,7 +7,7 @@ const Header=()=>{
 
     return(
         <div class="container">
-            <nav className="navbar navbar-expand-lg navbar-light bg-light">
+            <nav  className="navbar navbar-expand-lg navbar-dark bg-dark">
             <div className={styles.dropdown}>
             <button class="btn btn-secondary dropdown-toggle"type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >
              Join
